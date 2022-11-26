@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+    width: 1440px;
+    height: 980px;
+    background: #0E1014;
+}
+header{
+    position: absolute;
+    width: 1140px;
+    height: 73px;
+    left: 150px;
+    top: 46px;
+}
+.logo_werbex{
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 0px;
+    top: 11px;
+}
+.part1{
+    position: absolute;
+    width: 35px;
+    height: 24px;
+    left: 0px;
+    top: 0px;
+    background: #E4E5EA;
+}
+.vector1{
+    position: absolute;
+    left: 0%;
+    right: -0.15%;
+    top: 0%;
+    bottom: 0%;
+    background: #E4E5EA;
+}
+.part2{
+    position: absolute;
+    width: 97px;
+    height: 15px;
+    left: 43px;
+    top: 5px;
+}
+.vector2{
+    position: absolute;
+    left: 0.17%;
+    right: 0.99%;
+    top: 0%;
+    bottom: 5.74%;
+    background: #E4E5EA;
+}
+.menu{
+    position: absolute;
+    width: 503px;
+    height: 19px;
+    left: 192px;
+    top: 15px;
+
+}
+a{
+    position: absolute;
+width: 54px;
+height: 19px;
+left: 0px;
+top: 0px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #E4E5EA;
+
+}
